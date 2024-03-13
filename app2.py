@@ -1,5 +1,6 @@
 import json
 import streamlit as st
+st.set_page_config(layout="wide")
 from streamlit_agraph import agraph, Node, Edge, Config
 from streamlit_agraph.config import Config, ConfigBuilder
 # Carregar o JSON
