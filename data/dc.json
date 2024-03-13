@@ -1,0 +1,134 @@
+{
+    "name": "DC",
+    "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/Justice_League_%28circa_2018%29.png",
+    "children": [
+      {
+        "name": "Heroes",
+        "children": [
+          {
+            "hero": "Superman",
+            "name": "Clark Kent",
+            "link": "https://www.dccomics.com/characters/superman",
+            "img": "https://upload.wikimedia.org/wikipedia/en/3/35/Supermanflying.png",
+            "size": 40000
+          },
+          {
+            "hero": "Batman",
+            "name": "Bruce Wayne",
+            "link": "https://www.dccomics.com/characters/batman",
+            "img": "https://upload.wikimedia.org/wikipedia/en/1/19/Batman_%28circa_2016%29.png",
+            "size": 40000
+          },
+          {
+            "hero": "Wonder Woman",
+            "name": "Diana Prince",
+            "link": "https://www.dccomics.com/characters/wonder-woman",
+            "img": "https://upload.wikimedia.org/wikipedia/en/9/93/Wonder_Woman.png",
+            "size": 40000
+          },
+          {
+            "hero": "The Flash",
+            "name": "Barry Allen",
+            "link": "https://www.dccomics.com/characters/the-flash",
+            "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/Barry_Allen_Flash.png",
+            "size": 40000
+          },
+          {
+            "hero": "Aquaman",
+            "name": "Arthur Curry",
+            "link": "https://www.dccomics.com/characters/aquaman",
+            "img": "https://upload.wikimedia.org/wikipedia/en/8/80/Aquaman_Rebirth.png",
+            "size": 40000
+          },
+          {
+            "hero": "Cyborg",
+            "name": "Victor Stone",
+            "link": "https://www.dccomics.com/characters/cyborg",
+            "img": "https://upload.wikimedia.org/wikipedia/en/8/8e/Cyborg_%28Victor_Stone%29.png",
+            "size": 40000
+          },
+          {
+            "hero": "Green Lantern",
+            "name": "Hal Jordan",
+            "link": "https://www.dccomics.com/characters/green-lantern",
+            "img": "https://upload.wikimedia.org/wikipedia/en/c/cb/Green_Lantern_%28Hal_Jordan%29.png",
+            "size": 40000
+          },
+          {
+            "hero": "Martian Manhunter",
+            "name": "J'onn J'onzz",
+            "link": "https://www.dccomics.com/characters/martian-manhunter",
+            "img": "https://upload.wikimedia.org/wikipedia/en/b/b7/Martian_Manhunter.png",
+            "size": 40000
+          },
+          {
+            "hero": "Hawkgirl",
+            "name": "Shiera Hall",
+            "link": "https://www.dccomics.com/characters/hawkgirl",
+            "img": "https://upload.wikimedia.org/wikipedia/en/0/0e/Hawkgirl.png",
+            "size": 40000
+          },
+          {
+            "hero": "Green Arrow",
+            "name": "Oliver Queen",
+            "link": "https://www.dccomics.com/characters/green-arrow",
+            "img": "https://upload.wikimedia.org/wikipedia/en/c/c0/Green_Arrow.png",
+            "size": 40000
+          }
+        ]
+      },
+      {
+        "name": "Villains",
+        "children": [
+          {
+            "villain": "Lex Luthor",
+            "name": "Lex Luthor",
+            "link": "https://www.dccomics.com/characters/lex-luthor",
+            "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/LexLuthor1.png",
+            "size": 40000
+          },
+          {
+            "villain": "Joker",
+            "name": "Joker",
+            "link": "https://www.dccomics.com/characters/joker",
+            "img": "https://upload.wikimedia.org/wikipedia/en/9/98/Joker_%28DC_Comics_character%29.png",
+            "size": 40000
+          },
+          {
+            "villain": "Darkseid",
+            "name": "Darkseid",
+            "link": "https://www.dccomics.com/characters/darkseid",
+            "img": "https://upload.wikimedia.org/wikipedia/en/6/6a/Darkseid%27s_Original_Form.jpg",
+            "size": 40000
+          },
+          {
+            "villain": "Cheetah",
+            "name": "Cheetah",
+            "link": "https://www.dccomics.com/characters/cheetah",
+            "img": "https://upload.wikimedia.org/wikipedia/en/7/7f/Cheetah_dc05.png",
+            "size": 40000
+          },
+          {
+            "villain": "Deathstroke",
+            "name": "Deathstroke",
+            "link": "https://www.dccomics.com/characters/deathstroke",
+            "img": "https://upload.wikimedia.org/wikipedia/en/b/bb/Deathstroke_promo_image_2.jpg",
+            "size": 40000
+          }
+        ]
+      },
+      {
+        "name": "Teams",
+        "children": [
+          {
+            "team": "Justice League",
+            "name": "Justice League",
+            "link": "https://www.dccomics.com/characters/justice-league",
+            "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/Justice_League_%28circa_2018%29.png",
+            "size": 40000
+          }
+        ]
+      }
+    ]
+  }
+  
